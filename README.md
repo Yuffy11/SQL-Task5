@@ -1,4 +1,4 @@
-### SQL-Project
+### Introduction to joins and aggregate functions
 
 #### Introduction:
 SQL offers a powerful way to generate business questions and effectively uncover valuable insights from data.
@@ -64,6 +64,6 @@ ORDER BY PinCode DESC;_
 
 #### Conclusion:
 
-this project has highlighted the remarkable potential of SQL in facilitating business queries.
+this task has highlighted the remarkable potential of SQL in facilitating business queries.
 
 Through a series of business questions and the use of SQL commands like ORDER BY, GROUP BY, and AGGREGATE FUNCTIONS, valuable insights were obtained that would help in decision-making within a business context.
